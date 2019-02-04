@@ -1,8 +1,5 @@
-#include <unistd.h>
-void	f_printchar(char c)
-{
-  write(1,&c,1);
-}
+
+void	f_printchar(char c);
 
 void	f_printnum(int num)
 {
@@ -24,8 +21,4 @@ void	f_printnum(int num)
     }
   else
     f_printchar(num + '0');
-}
-int main()
-{
-  f_printnum(-2147483648);
 }
