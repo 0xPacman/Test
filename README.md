@@ -1,7 +1,6 @@
 # Test
 
-this is a Testing LAB
+This is a Testing LAB
 
-i test here my functions and programs.
+i test here my functions and some simple programs.
 
-you are welcome to check them but before that, tshreb shi kas d'atay?
