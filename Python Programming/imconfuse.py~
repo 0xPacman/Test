@@ -1,0 +1,6 @@
+
+#Could someone explain to me what the heck is this!
+
+0.1 + 0.2 == 0.3
+#vs
+0.1 + 0.2 == 0.30000000000000004
