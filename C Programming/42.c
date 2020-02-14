@@ -37,7 +37,7 @@ int main()
 {
   long result = ultimate();
   printf("the answer is : %ld \n",result);
-  printf("if you take the answer %ld and convert it to ASCII you will get : %c,\n in unix world '%c' means all, so it is the answer of everything.\n",result,(int)result,(int)result);
+  printf("if you take the answer %ld and convert it to ASCII you will get : %c,\n in unix world '%c' means all, so it is the answer of everything.(in the computers world)\n",result,(int)result,(int)result);
   
   
 }
