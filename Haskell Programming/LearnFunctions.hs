@@ -3,7 +3,7 @@
 {-||                      ||-}
 {-||  Author: Ahmed0x7ce  ||-}
 
--- Hello!
+
 {- let's learn some haskell -}
 
 import Data.List
