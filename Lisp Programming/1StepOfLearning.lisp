@@ -1,7 +1,7 @@
 #||                      ||#
 #||    Learning Lisp     ||#
 #||                      ||#
-#||  Author: Ahmed0x7ce  ||#
+#||   Author: 0xPacman   ||#
 
 (format t "Welcome To The Lisp Project ~% What's your name?~%")
 
