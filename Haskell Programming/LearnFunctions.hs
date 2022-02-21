@@ -1,7 +1,7 @@
 {-||                      ||-}
 {-||   Learning Haskell   ||-}
 {-||                      ||-}
-{-||  Author: Ahmed0x7ce  ||-}
+{-||   Author: 0xPacman   ||-}
 
 
 {- let's learn some haskell -}
