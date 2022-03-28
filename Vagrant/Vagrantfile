@@ -1,8 +1,9 @@
 $script = <<-SCRIPT
-echo "Script testing is done."
+echo "Inline script testing is done."
 SCRIPT
 
 Vagrant.configure("2") do |config|
     config.vm.box = "ubuntu/xenial64"
     config.vm.provision "shell", inline: $script
+    config.vm.provision "shell", path: "script.sh"
 end
